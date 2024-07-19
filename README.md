@@ -1,4 +1,4 @@
-软件下载地址:  https://m.wosk.asia/github.com/hiddify/hiddify-next/releases
+软件下载地址:  https://github.com/hiddify/hiddify-next/releases
 
 <div dir="ltr">
     
